@@ -42,7 +42,7 @@ npm start
 
 ## Screenshots
 
-(Add screenshots of your application)
+![App Demo](./demo.png)
 
 ## License
 
