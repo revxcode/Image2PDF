@@ -12,7 +12,7 @@ A professional drag-and-drop tool to convert images to PDF with customizable lay
 
 ## Technologies
 
-- Next.js 14
+- Next.js 15
 - React DnD
 - jsPDF
 - Tailwind CSS
