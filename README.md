@@ -1,6 +1,7 @@
 # Image-to-PDF Converter
 
 A professional drag-and-drop tool to convert images to PDF with customizable layouts.
+![App Demo](./demo.png)
 
 ## Features
 
@@ -22,8 +23,8 @@ A professional drag-and-drop tool to convert images to PDF with customizable lay
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/revxcode/Image2PDF.git
+cd Image2PDF
 npm install
 ```
 
@@ -39,10 +40,6 @@ npm run dev
 npm run build
 npm start
 ```
-
-## Screenshots
-
-![App Demo](./demo.png)
 
 ## License
 
